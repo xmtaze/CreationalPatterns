@@ -5,7 +5,7 @@ public class TestDemo {
 
 		// Kullanamýyoruz çünkü private constructorý static methodlarý new
 		// olmadan kullanabiliyorduk get instance öyle
-		// SingleObject object = new SingleObject();
+	
 
 		// Get the only object available
 		SingleObject object1 = SingleObject.getInstance();
